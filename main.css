@@ -137,7 +137,7 @@ height: 270px;
     box-sizing: border-box;
     width: 1400px;
     height: 717px;
-    background-image: url('/sd_metrika/resouses/Rectangle\ 10.png');
+    background-image: url('Rectangle\ 10.png');
 }
 .projec_example{
     padding-top: 575px;
@@ -147,4 +147,5 @@ height: 270px;
     width: 443px;
     letter-spacing: -0.03em;
     color: #fff;
+
 }
