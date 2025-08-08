@@ -16,7 +16,7 @@ body{
     margin-top: 30px;
     height: 500px;
     width: 1150px;
-    background-image: url('/sd_metrika/resouses/kreslo.png');
+    background-image: url('kreslo.png');
     margin-bottom: 150px;
 }
 .image_text{
