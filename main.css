@@ -1,0 +1,150 @@
+body{
+    font-family:"Manrope", sans-serif;
+    font-weight: 400;
+    width:100%;
+    letter-spacing: -0.03em;
+    background: #f5f5f5;
+}
+.preview{
+    margin: 0 auto;
+    box-sizing: border-box;
+    width: 1400px;
+    background-color:#FFFFFF;
+    padding: 0 125px 0 125px;
+}
+.preview_inf{
+    margin-top: 30px;
+    height: 500px;
+    width: 1150px;
+    background-image: url('/sd_metrika/resouses/kreslo.png');
+    margin-bottom: 150px;
+}
+.image_text{
+    width: 430px;
+    height: 81px;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: left;
+    color: #fff;
+    padding-top: 379px;
+    padding-left: 40px;
+
+}
+h1{
+    width: 956px;
+    height: 120px;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+}
+h2{
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    margin-bottom: 30px;
+}
+p.about_us_text{
+    font-size: 45px;
+    line-height: 61px ;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.about_us_link{
+    margin-bottom: 150px;
+    display: inline-block;
+    background-color: #AD1818;
+    color: #fff;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+.about_us_link:hover{
+    background-color: #fff;
+    color: #AD1818;
+    border: 1px solid #AD1818;
+}
+.jk-img{
+    margin-bottom: 15px;
+    width: 100%;
+    height: 450px;
+}
+.jk_text-wrapper{
+    margin-bottom: 90px;
+}
+.jk__title{
+    margin-bottom: 15px;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: -0.03em;
+}
+.about__jk{
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    color: #AD1818;  
+}
+.all__Project-btn{
+    margin-bottom: 150PX;
+    font-family:"Manrope";
+    width: 100%;
+    height: 153px;
+    border: 1px solid #AD1818;
+    color: #AD1818;
+    background-color: #fff;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    text-align: center;
+}
+.all__Project-btn:hover{
+    border: 1px solid #AD1818;
+    background-color: #AD1818;
+    color: #fff;
+}
+.section__service{
+    margin: 0 auto;
+    box-sizing: border-box;
+    width: 1400px;
+    background-color: black;
+    padding: 0 125px 150px 125px;
+}
+.service__title{
+    padding-top: 151px ;
+    padding-left: 2px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff;
+    letter-spacing: -0.03em;
+
+}
+.service-img{
+width: 100%;
+height: 270px;
+}
+.service__offer{
+    margin-top: 15px;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    color: #fff
+}
+.container{
+    margin-bottom: 60px;
+}
+.example{
+    margin: 0 auto;
+    box-sizing: border-box;
+    width: 1400px;
+    height: 717px;
+    background-image: url('/sd_metrika/resouses/Rectangle\ 10.png');
+}
+.projec_example{
+    padding-top: 575px;
+    padding-left: 125px;
+    font-weight: 400;
+    font-size: 30px;
+    width: 443px;
+    letter-spacing: -0.03em;
+    color: #fff;
+}
